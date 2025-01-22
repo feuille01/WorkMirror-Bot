@@ -74,6 +74,7 @@ WorkMirror_bot/
 ├─ .env
 ├─ requirements.txt
 └─ README.md 
+
 4.1 config.py
 •	Содержит константы и переменные окружения (читаются через dotenv).
 •	Пример:
